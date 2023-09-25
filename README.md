@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Web & App<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with advise to get my stuff done fast<br>🌱 I’m currently learning - Flutter and Javascript<br>💬 Ask me about - really basic HTML<br>⚡ Fun fact - I am lazy and newbie in programming and scripting
+🔭 I’m currently studying on Web & App<br>🤝 I’m looking for help with advise to get my stuff done fast<br>🌱 I’m currently learning - Flutter and Javascript<br>💬 Ask me about - really basic HTML<br>⚡ Fun fact - I am lazy and newbie in programming and scripting
 
 
 ## 🌐 Socials:
